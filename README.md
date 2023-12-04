@@ -1,4 +1,4 @@
-# EdgeML-Bonsai-Regression
+# Bonsai-Regression-Rescue
 
 A repo tailored to support [Bonsai's](https://github.com/microsoft/EdgeML/tree/master) regression capabilities. I've wrestled with it so you won't have to.
 
