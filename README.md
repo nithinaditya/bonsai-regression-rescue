@@ -1,1 +1,1 @@
-# edgeml-bonsai-regression
+# EdgeML-Bonsai-Regression
