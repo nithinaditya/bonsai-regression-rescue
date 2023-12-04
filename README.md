@@ -14,7 +14,7 @@ your_data_folder/
 |-- test.npy
 ```
 
-Initialize the DataDir variable in your code to point to the path where your data resides. 
+Initialize the `DataDir` variable in your code to point to the path where your data resides. 
 ```
 DataDir = 'path/to/your_data_folder'
 ```
